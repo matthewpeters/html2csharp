@@ -1,0 +1,2 @@
+U:\vs12_projects\html2csharp\bin\Debug\WindowsApplication.exe.config
+U:\vs12_projects\html2csharp\obj\x86\Debug\kmlParser.csprojResolveAssemblyReference.cache
